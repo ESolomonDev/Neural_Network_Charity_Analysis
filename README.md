@@ -1,10 +1,10 @@
 # Neural_Network_Charity_Analysis
 
-##Overview of the analysis:
+## Overview of the analysis:
 
 This project is an attempt to use neural network models to predict if applicants to a charity program would ne successful additions to the program. For this analysis a data set containing around 34,000 organizations that have been funded.
 
-##Results:
+## Results:
 
 * Data Preprocessing
 
@@ -18,6 +18,6 @@ This project is an attempt to use neural network models to predict if applicants
 2. I was slightly shy of obtaining target performance for the model.
 3. If I was to try and futher optimize the model I would try less complicated models over more epoch to try and get the accuracy about 75%.
 
-##Summary:
+## Summary:
 
 I believe further exploration of the data and trimming the data of variables that have little or no impact on the desired outcome along with running the model for more epochs would possibly attain the desired performance from the NN model.
